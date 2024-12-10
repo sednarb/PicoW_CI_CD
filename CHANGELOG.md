@@ -1,5 +1,11 @@
 # CHANGELOG.md
 
+## v0.0.5
+
+Features:
+ - just a new version without any changes
+
+
 ## v0.0.4
 Fixes:
  - fixed LED test
