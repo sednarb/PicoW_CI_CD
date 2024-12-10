@@ -1,5 +1,11 @@
 # CHANGELOG.md
 
+## v0.0.6
+
+Features:
+ - just an other version without any changes
+
+
 ## v0.0.5
 
 Features:
